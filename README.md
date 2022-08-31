@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vikas Kumar[@vikasKredX].
+- 👋 Hi, I’m Vikas Kumar[@vikasKredX][@viktapas].
 - 👀 I’m interested in getting better than yesterday.
 - 🌱 I’m currently learning secrets.
 - 💞️ I’m looking to collaborate on javascript, react, design and algorithms.
